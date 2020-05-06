@@ -1,2 +1,2 @@
 # ram_fatfs_usbDevice
-USB mass storage using ram as fatfs
+USB mass storage using RAM as fatfs
